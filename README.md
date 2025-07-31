@@ -3,8 +3,8 @@
 ### 📽️ Deployment Video
 
 
-### 📸 Architecture Diagram
-![Architecture](assets/architecture.png)
+### 📸 Architecture Diagram  
+![Architecture](https://raw.githubusercontent.com/Mr-Surendar/App-Monitoring-with-Prometheus-Grafana/main/assets/architecture.png)
 
 ### Set up an two separate AWS EC2 instances one for Application Deployment and Another one for monitoring tools & Node Exporters.
 
