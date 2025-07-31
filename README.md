@@ -3,9 +3,9 @@
 ### 📽️ Deployment Video
 
 
-### 📸 Architecture diagram
-![Screenshot](https://github.com/Mr-Surendar)/App-Monitoring-with-Prometheus-Grafana
-/accets/)
+### 📸 Architecture Diagram
+![Architecture](assets/architecture.png)
+
 ### Set up an two separate AWS EC2 instances one for Application Deployment and Another one for monitoring tools & Node Exporters.
 
 1. Create an IAM user & login to your AWS Console
