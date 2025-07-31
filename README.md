@@ -1,12 +1,11 @@
 # Deploying and Monitoring a React Application on AWS using Prometheus, Grafana & Node Exporters.
 
-### Deployment Video
-```
+### 📽️ Deployment Video
 
-```
 
-### Architecture diagram
-App-Monitoring-with-Prometheus-Grafana/accets/
+### 📸 Architecture diagram
+![Screenshot](https://github.com/Mr-Surendar)/App-Monitoring-with-Prometheus-Grafana
+/accets/)
 ### Set up an two separate AWS EC2 instances one for Application Deployment and Another one for monitoring tools & Node Exporters.
 
 1. Create an IAM user & login to your AWS Console
